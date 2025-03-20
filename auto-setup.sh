@@ -18,5 +18,3 @@ echo "datasets" >> requirements.txt
 echo "indic-nlp-library" >> requirements.txt
 
 python3 -m venv .venv
-echo "source /home/aiml-machine/AiML-projects/language-translation/.venv/bin/activate" > activate-venv.sh
-chmod +x activate-venv.sh
